@@ -1,2 +1,3 @@
 # hello-world
-This repo serves as a canvas foe my ideas
+This repo serves as a canvas for my ideas
+    
